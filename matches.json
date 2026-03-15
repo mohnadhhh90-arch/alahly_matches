@@ -3,8 +3,24 @@
     "team1": "Al Ahly",
     "team2": "Zamalek",
     "date": "13/03/2026",
-    "time": "10:00",
+    "time": "10:46",
     "endTime": "12:00",
     "competition": "الدوري المصري"
+  },
+  {
+    "team1": "Al Ahly",
+    "team2": "Pyramids",
+    "date": "13/03/2026",
+    "time": "08:00",
+    "endTime": "09:50",
+    "competition": "الدوري المصري"
+  },
+  {
+    "team1": "Al Ahly",
+    "team2": "Esperance",
+    "date": "13/03/2026",
+    "time": "14:00",
+    "endTime": "16:00",
+    "competition": "دوري أبطال أفريقيا"
   }
 ]
