@@ -6,24 +6,15 @@
     "time": "10:30",
     "endTime": "12:00",
     "competition": "الدوري المصري",
-    "result": "2-1"
+    "result": "6-2"
   },
   {
     "team1": "Al Ahly",
     "team2": "Pyramids",
     "date": "15/03/2026",
-    "time": "14:00",
-    "endTime": "15:50",
+    "time": "3:00",
+    "endTime": "4:30",
     "competition": "الدوري المصري",
-    "result": ""
-  },
-  {
-    "team1": "Al Ahly",
-    "team2": "Esperance",
-    "date": "16/03/2026",
-    "time": "20:00",
-    "endTime": "22:00",
-    "competition": "دوري أبطال أفريقيا",
     "result": ""
   }
 ]
