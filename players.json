@@ -1,0 +1,23 @@
+[
+  { "name": "محمد الشناوي", "number": "1", "position": "حارس مرمى" },
+  { "name": "مصطفى شوبير", "number": "31", "position": "حارس مرمى" },
+  { "name": "محمد سيحا", "number": "26", "position": "حارس مرمى" },
+  { "name": "ياسين مرعي", "number": "2", "position": "مدافع" },
+  { "name": "أشرف داري", "number": "15", "position": "مدافع" },
+  { "name": "أحمد رمضان بيكهام", "number": "4", "position": "مدافع" },
+  { "name": "ياسر إبراهيم", "number": "6", "position": "مدافع" },
+  { "name": "محمد شكري", "number": "12", "position": "مدافع" },
+  { "name": "عمر كمال عبد الواحد", "number": "?", "position": "مدافع" },
+  { "name": "محمد هاني", "number": "30", "position": "مدافع" },
+  { "name": "أليو ديانغ", "number": "?", "position": "وسط" },
+  { "name": "مروان عطية", "number": "13", "position": "وسط" },
+  { "name": "إمام عاشور", "number": "22", "position": "وسط هجومي" },
+  { "name": "أحمد نبيل كوكا", "number": "36", "position": "وسط" },
+  { "name": "محمد علي بن رمضان", "number": "5", "position": "وسط" },
+  { "name": "محمد مجدي أفشة", "number": "?", "position": "وسط" },
+  { "name": "حسين الشحات", "number": "14", "position": "جناح" },
+  { "name": "محمود حسن تريزيجيه", "number": "7", "position": "جناح" },
+  { "name": "أشرف بن شرقي", "number": "?", "position": "جناح" },
+  { "name": "طاهر محمد طاهر", "number": "29", "position": "مهاجم" },
+  { "name": "محمد شريف", "number": "17", "position": "مهاجم" }
+]
