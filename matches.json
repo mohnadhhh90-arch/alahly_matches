@@ -1,11 +1,20 @@
 [
   {
+    {
     "team1": "Al Ahly",
     "team2": "Esperance ST",
     "date": "21/03/2026",
     "time": "09:00 PM",
     "endTime": "11:00 PM",
-    "competition": "دوري أبطال أفريقيا (إياب ربع النهائي)",
+    "competition": "دوري أبطال أفريقيا",
+    "result": "1-0"
+  },
+    "team1": "Al Ahly",
+    "team2": "Esperance ST",
+    "date": "21/03/2026",
+    "time": "09:00 PM",
+    "endTime": "11:00 PM",
+    "competition": "دوري أبطال أفريقيا",
     "result": ""
   },
   {
