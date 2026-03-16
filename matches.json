@@ -1,20 +1,65 @@
 [
   {
     "team1": "Al Ahly",
-    "team2": "Zamalek",
-    "date": "15/03/2026",
-    "time": "10:30 AM",
-    "endTime": "12:00 PM",
-    "competition": "الدوري المصري",
-    "result": "6-1"
+    "team2": "Esperance ST",
+    "date": "21/03/2026",
+    "time": "09:00 PM",
+    "endTime": "11:00 PM",
+    "competition": "دوري أبطال أفريقيا (إياب ربع النهائي)",
+    "result": ""
+  },
+  {
+    "team1": "Ceramica Cleopatra",
+    "team2": "Al Ahly",
+    "date": "03/04/2026",
+    "time": "08:00 PM",
+    "endTime": "10:00 PM",
+    "competition": "الدوري المصري (مجموعة البطولة)",
+    "result": ""
   },
   {
     "team1": "Al Ahly",
-    "team2": "Pyramids",
-    "date": "16/03/2026",
-    "time": "3:00 PM",
-    "endTime": "4:30 PM",
-    "competition": "الدوري المصري",
+    "team2": "Smouha",
+    "date": "07/04/2026",
+    "time": "08:00 PM",
+    "endTime": "10:00 PM",
+    "competition": "الدوري المصري (مجموعة البطولة)",
+    "result": ""
+  },
+  {
+    "team1": "Pyramids FC",
+    "team2": "Al Ahly",
+    "date": "27/04/2026",
+    "time": "08:00 PM",
+    "endTime": "10:00 PM",
+    "competition": "الدوري المصري (مجموعة البطولة)",
+    "result": ""
+  },
+  {
+    "team1": "Zamalek",
+    "team2": "Al Ahly",
+    "date": "01/05/2026",
+    "time": "08:00 PM",
+    "endTime": "10:00 PM",
+    "competition": "الدوري المصري (مجموعة البطولة)",
+    "result": ""
+  },
+  {
+    "team1": "Al Ahly",
+    "team2": "ENPPI SC",
+    "date": "05/05/2026",
+    "time": "08:00 PM",
+    "endTime": "10:00 PM",
+    "competition": "الدوري المصري (مجموعة البطولة)",
+    "result": ""
+  },
+  {
+    "team1": "Al Ahly",
+    "team2": "Al Masry",
+    "date": "20/05/2026",
+    "time": "08:00 PM",
+    "endTime": "10:00 PM",
+    "competition": "الدوري المصري (مجموعة البطولة)",
     "result": ""
   }
 ]
