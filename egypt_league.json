@@ -1,11 +1,9 @@
 [
-  {"team":"الاهلي","played":8,"win":6,"draw":1,"lose":1,"goalsDiff":13,"points":19},
-  {"team":"الزمالك","played":9,"win":6,"draw":2,"lose":1,"goalsDiff":11,"points":20},
-  {"team":"بيراميدز","played":8,"win":4,"draw":2,"lose":2,"goalsDiff":5,"points":14},
-  {"team":"المصري","played":8,"win":3,"draw":3,"lose":2,"goalsDiff":1,"points":12},
-  {"team":"البنك الاهلي","played":8,"win":2,"draw":3,"lose":3,"goalsDiff":1,"points":9},
-  {"team":"سيراميكا كيلوباترا","played":8,"win":4,"draw":1,"lose":3,"goalsDiff":3,"points":13},
-  {"team":"فاركو","played":8,"win":2,"draw":3,"lose":3,"goalsDiff":-8,"points":9},
-  {"team":"بيتروجيت","played":8,"win":1,"draw":2,"lose":5,"goalsDiff":-10,"points":5},
-  {"team":"حرس الحدود","played":8,"win":0,"draw":2,"lose":6,"goalsDiff":-13,"points":2}
+  {"team":"الزمالك","played":20,"win":13,"draw":4,"lose":3,"goalsDiff":19,"points":43},
+  {"team":"بيراميدز","played":20,"win":13,"draw":4,"lose":3,"goalsDiff":18,"points":43},
+  {"team":"الأهلي","played":20,"win":11,"draw":7,"lose":2,"goalsDiff":14,"points":40},
+  {"team":"سيراميكا","played":20,"win":11,"draw":5,"lose":4,"goalsDiff":13,"points":38},
+  {"team":"المصري","played":20,"win":8,"draw":8,"lose":4,"goalsDiff":9,"points":32},
+  {"team":"سموحة","played":20,"win":8,"draw":7,"lose":5,"goalsDiff":8,"points":31},
+  {"team":"إنبي","played":20,"win":7,"draw":9,"lose":4,"goalsDiff":4,"points":30}
 ]
