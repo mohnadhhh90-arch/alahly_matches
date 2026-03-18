@@ -1,10 +1,13 @@
-# .github/workflows/fetch_news.yml
 name: Fetch Ahly News
 
 on:
   schedule:
     # كل نص ساعة
     - cron: "*/30 * * * *"
+  # اضفنا trigger عند push عشان يشتغل فورًا
+  push:
+    branches:
+      - main  # أو الفرع اللي انت شغال عليه
 
 jobs:
   update-news:
