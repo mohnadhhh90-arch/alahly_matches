@@ -2,8 +2,8 @@
   
     
   {
-    "team1": "Ceramica Cleopatra",
-    "team2": "Al Ahly",
+    "team1": "سيراميكا كيلوباترا",
+    "team2": "الاهلي",
     "date": "03/04/2026",
     "time": "08:00 PM",
     "endTime": "10:00 PM",
@@ -11,8 +11,8 @@
     "result": ""
   },
   {
-    "team1": "Al Ahly",
-    "team2": "Smouha",
+    "team1": "الاهلي",
+    "team2": "سموحه",
     "date": "07/04/2026",
     "time": "08:00 PM",
     "endTime": "10:00 PM",
@@ -20,8 +20,8 @@
     "result": ""
   },
   {
-    "team1": "Pyramids FC",
-    "team2": "Al Ahly",
+    "team1": "بيراميدز",
+    "team2": "الاهلي",
     "date": "27/04/2026",
     "time": "08:00 PM",
     "endTime": "10:00 PM",
@@ -29,8 +29,8 @@
     "result": ""
   },
   {
-    "team1": "Zamalek",
-    "team2": "Al Ahly",
+    "team1": "الزمالك",
+    "team2": "الاهلي",
     "date": "01/05/2026",
     "time": "08:00 PM",
     "endTime": "10:00 PM",
@@ -38,8 +38,8 @@
     "result": ""
   },
   {
-    "team1": "Al Ahly",
-    "team2": "ENPPI SC",
+    "team1": "الاهلي",
+    "team2": "انبي",
     "date": "05/05/2026",
     "time": "08:00 PM",
     "endTime": "10:00 PM",
@@ -47,8 +47,8 @@
     "result": ""
   },
   {
-    "team1": "Al Ahly",
-    "team2": "Al Masry",
+    "team1": "الاهلي",
+    "team2": "المصري",
     "date": "20/05/2026",
     "time": "08:00 PM",
     "endTime": "10:00 PM",
@@ -56,8 +56,8 @@
     "result": ""
   },
   {
-    "team1": "Al Ahly",
-    "team2": "Esperance ST",
+    "team1": "الأهلي",
+    "team2": "الترجي التونسي",
     "date": "End",
     "time": "انتهي",
     "endTime": "11:00 PM",
@@ -65,8 +65,8 @@
     "result": "1-0"
   },
   {
-    "team1": "Al Ahly",
-    "team2": "Esperance ST",
+    "team1": "الاهلي",
+    "team2": "الترجي التونسي",
     "date": "End",
     "time": "انتهي",
     "endTime": "11:00 PM",
