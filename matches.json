@@ -1,23 +1,6 @@
 [
   
-    {
-    "team1": "Al Ahly",
-    "team2": "Esperance ST",
-    "date": "21/03/2026",
-    "time": "منتهي",
-    "endTime": "11:00 PM",
-    "competition": "دوري أبطال أفريقيا",
-    "result": "1-0"
-  },
-  {
-    "team1": "Al Ahly",
-    "team2": "Esperance ST",
-    "date": "منتهي",
-    "time": "09:00 PM",
-    "endTime": "11:00 PM",
-    "competition": "دوري أبطال أفريقيا",
-    "result": "3-2"
-  },
+    
   {
     "team1": "Ceramica Cleopatra",
     "team2": "Al Ahly",
@@ -72,4 +55,22 @@
     "competition": "الدوري المصري",
     "result": ""
   }
+  {
+    "team1": "Al Ahly",
+    "team2": "Esperance ST",
+    "date": "",
+    "time": "انتهي",
+    "endTime": "11:00 PM",
+    "competition": "دوري أبطال أفريقيا",
+    "result": "1-0"
+  },
+  {
+    "team1": "Al Ahly",
+    "team2": "Esperance ST",
+    "date": "",
+    "time": "انتهي",
+    "endTime": "11:00 PM",
+    "competition": "دوري أبطال أفريقيا",
+    "result": "3-2"
+  },
 ]
