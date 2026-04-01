@@ -1,61 +1,76 @@
 [
-{"question":"من هو مدرب الأهلي في 2026؟","option1":"مارسيل كولر","option2":"مدرب وطني","option3":"موسيماني","correct":"مارسيل كولر"},
-{"question":"كم عدد بطولات أفريقيا حتى 2026؟","option1":"12","option2":"13","option3":"14","correct":"13"},
-{"question":"من هو قائد الأهلي 2026؟","option1":"رامي ربيعة","option2":"محمد الشناوي","option3":"محمد هاني","correct":"محمد الشناوي"},
-{"question":"ما هو ملعب الأهلي في 2026؟","option1":"ستاد السلام","option2":"ستاد العاصمة الإدارية","option3":"ستاد القاهرة","correct":"ستاد العاصمة الإدارية"},
-{"question":"من هداف الأهلي 2025؟","option1":"كهربا","option2":"وسام أبو علي","option3":"الشحات","correct":"وسام أبو علي"},
-
-{"question":"من هو رئيس النادي 2026؟","option1":"حسن حمدي","option2":"الخطيب","option3":"طارق قنديل","correct":"الخطيب"},
-{"question":"كم عدد بطولات الدوري حتى 2025؟","option1":"44","option2":"45","option3":"46","correct":"45"},
-{"question":"أين أقيم مونديال الأندية 2025؟","option1":"المغرب","option2":"أمريكا","option3":"السعودية","correct":"أمريكا"},
-{"question":"من أفضل لاعب 2025؟","option1":"إمام عاشور","option2":"أفشة","option3":"الشحات","correct":"إمام عاشور"},
-{"question":"كم عدد بطولات السوبر المصري؟","option1":"15","option2":"16","option3":"17","correct":"15"},
-
-{"question":"من الحارس الأساسي؟","option1":"شوبير","option2":"الشناوي","option3":"الزنفلي","correct":"الشناوي"},
-{"question":"من المهاجم الأساسي؟","option1":"موديست","option2":"وسام أبو علي","option3":"كهربا","correct":"وسام أبو علي"},
-{"question":"من الظهير الأيمن؟","option1":"محمد هاني","option2":"كريم فؤاد","option3":"فتحي","correct":"محمد هاني"},
-{"question":"من الظهير الأيسر؟","option1":"معلول","option2":"هاني","option3":"عبدالمنعم","correct":"معلول"},
-{"question":"من سجل نهائي أفريقيا 2024؟","option1":"ربيعة","option2":"إمام","option3":"أفشة","correct":"ربيعة"},
-
-{"question":"من الحارس البديل المتألق؟","option1":"شوبير","option2":"حمزة علاء","option3":"لطفي","correct":"شوبير"},
-{"question":"كم عدد فروع الأهلي؟","option1":"4","option2":"5","option3":"6","correct":"5"},
-{"question":"من المدير الرياضي؟","option1":"عبدالحفيظ","option2":"محمد رمضان","option3":"الخطيب","correct":"محمد رمضان"},
-{"question":"من هداف مونديال الأهلي تاريخياً؟","option1":"تريكة","option2":"الشحات","option3":"معلول","correct":"الشحات"},
-{"question":"كم عدد بطولات أفريقيا 2025؟","option1":"11","option2":"12","option3":"13","correct":"12"},
-
-{"question":"من سجل السوبر 2024؟","option1":"موديست","option2":"الشحات","option3":"إمام","correct":"موديست"},
-{"question":"من صانع الألعاب الأساسي؟","option1":"إمام","option2":"أفشة","option3":"ديانغ","correct":"إمام"},
-{"question":"أفضل جناح؟","option1":"تاو","option2":"الشحات","option3":"طاهر","correct":"الشحات"},
-{"question":"لاعب الوسط الدفاعي؟","option1":"مروان","option2":"ديانغ","option3":"حمدي","correct":"مروان"},
-{"question":"أفضل مدافع؟","option1":"عبدالمنعم","option2":"ياسر","option3":"ربيعة","correct":"عبدالمنعم"},
-
-{"question":"كم بطولات كأس مصر؟","option1":"37","option2":"38","option3":"39","correct":"38"},
-{"question":"أفضل صفقة 2025؟","option1":"عمر كمال","option2":"إمام عاشور","option3":"رضا سليم","correct":"إمام عاشور"},
-{"question":"مشاركات مونديال الأندية؟","option1":"9","option2":"10","option3":"11","correct":"10"},
-{"question":"أسرع هدف 2025؟","option1":"الشحات","option2":"وسام","option3":"تاو","correct":"وسام"},
-{"question":"محلل الأداء؟","option1":"هارالد","option2":"ياسين","option3":"كارلوس","correct":"ياسين"},
-
-{"question":"مسؤول الاستاد؟","option1":"غالي","option2":"سراج الدين","option3":"قنديل","correct":"سراج الدين"},
-{"question":"الفرع الجديد؟","option1":"العاصمة","option2":"العلمين","option3":"المنصورة","correct":"العلمين"},
-{"question":"السوبر الأفريقي؟","option1":"11","option2":"12","option3":"13","correct":"12"},
-{"question":"هداف الفريق؟","option1":"وسام","option2":"الشحات","option3":"كهربا","correct":"وسام"},
-{"question":"قائد الدفاع؟","option1":"ربيعة","option2":"عبدالمنعم","option3":"ياسر","correct":"ربيعة"},
-
-{"question":"أفضل وسط؟","option1":"ديانغ","option2":"إمام","option3":"مروان","correct":"إمام"},
-{"question":"الظهير الاحتياطي؟","option1":"كريم","option2":"فتحي","option3":"هاني","correct":"كريم"},
-{"question":"عدد أهداف 2025؟","option1":"70","option2":"75","option3":"80","correct":"75"},
-{"question":"من سجل في السوبر؟","option1":"موديست","option2":"وسام","option3":"الشحات","correct":"موديست"},
-{"question":"أفضل حارس بديل؟","option1":"حمزة","option2":"شوبير","option3":"لطفي","correct":"شوبير"},
-
-{"question":"أفضل جناح أيمن؟","option1":"تاو","option2":"الشحات","option3":"طاهر","correct":"الشحات"},
-{"question":"أفضل جناح أيسر؟","option1":"طاهر","option2":"تاو","option3":"الشحات","correct":"تاو"},
-{"question":"انتصارات الدوري؟","option1":"20","option2":"22","option3":"24","correct":"22"},
-{"question":"صانع اللعب الثاني؟","option1":"أفشة","option2":"إمام","option3":"ديانغ","correct":"أفشة"},
-{"question":"أفضل مدافع 2026؟","option1":"ياسر","option2":"عبدالمنعم","option3":"ربيعة","correct":"عبدالمنعم"},
-
-{"question":"لاعب الارتكاز؟","option1":"ديانغ","option2":"مروان","option3":"حمدي","correct":"مروان"},
-{"question":"وسط هجومي؟","option1":"أفشة","option2":"إمام","option3":"الشحات","correct":"إمام"},
-{"question":"بديل هجومي؟","option1":"كهربا","option2":"موديست","option3":"وسام","correct":"كهربا"},
-{"question":"سلسلة الفوز؟","option1":"18","option2":"20","option3":"22","correct":"22"},
-{"question":"ترتيب الأهلي أفريقيا؟","option1":"الثاني","option2":"الأول","option3":"الثالث","correct":"الثاني"}
+  
+    
+  {
+    "team1": "سيراميكا كيلوباترا",
+    "team2": "الاهلي",
+    "date": "03/04/2026",
+    "time": "08:00 PM",
+    "endTime": "10:00 PM",
+    "competition": "الدوري المصري",
+    "result": ""
+  },
+  {
+    "team1": "الاهلي",
+    "team2": "سموحه",
+    "date": "07/04/2026",
+    "time": "08:00 PM",
+    "endTime": "10:00 PM",
+    "competition": "الدوري المصري",
+    "result": ""
+  },
+  {
+    "team1": "بيراميدز",
+    "team2": "الاهلي",
+    "date": "27/04/2026",
+    "time": "08:00 PM",
+    "endTime": "10:00 PM",
+    "competition": "الدوري المصري",
+    "result": ""
+  },
+  {
+    "team1": "الزمالك",
+    "team2": "الاهلي",
+    "date": "01/05/2026",
+    "time": "08:00 PM",
+    "endTime": "10:00 PM",
+    "competition": "الدوري المصري",
+    "result": ""
+  },
+  {
+    "team1": "الاهلي",
+    "team2": "انبي",
+    "date": "05/05/2026",
+    "time": "08:00 PM",
+    "endTime": "10:00 PM",
+    "competition": "الدوري المصري",
+    "result": ""
+  },
+  {
+    "team1": "الاهلي",
+    "team2": "المصري",
+    "date": "20/05/2026",
+    "time": "08:00 PM",
+    "endTime": "10:00 PM",
+    "competition": "الدوري المصري",
+    "result": ""
+  },
+  {
+    "team1": "الأهلي",
+    "team2": "الترجي التونسي",
+    "date": "End",
+    "time": "انتهي",
+    "endTime": "11:00 PM",
+    "competition": "دوري أبطال أفريقيا",
+    "result": "1-0"
+  },
+  {
+    "team1": "الاهلي",
+    "team2": "الترجي التونسي",
+    "date": "End",
+    "time": "انتهي",
+    "endTime": "11:00 PM",
+    "competition": "دوري أبطال أفريقيا",
+    "result": "3-2"
+  }
 ]
